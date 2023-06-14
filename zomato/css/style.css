@@ -1,0 +1,82 @@
+.cafe
+{
+    width: 1530px;
+    height: 600px;
+}
+  
+.logo
+{
+    width: 150px;
+    height: 120px;
+    padding: 20px;
+}
+.pic
+{
+    height: 400px;
+}
+.pic-img
+{
+    height: 400px;
+    width: 1500px;
+}
+.card-img
+{
+    height: 200px;
+    width: 400px;
+
+}
+.card-text
+{
+    height: 200px;
+    width: 400px;
+}
+  
+
+.bb1-img
+{
+    height: 520px;
+
+
+}
+.button{
+    width: 400px;
+    background-color: rgba(162, 87, 233, 0.763);
+}
+
+.button1{
+    background-color: rgba(215, 49, 227, 0.763);
+}
+.button2{
+    background-color: rgba(134, 16, 142, 0.666);
+    padding: 20px;
+    margin: 20px;
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+
+.footer{
+    background height: 500px;
+
+    background-image: linear-gradient(rgb(121, 28, 128), #FFFFFF); 
+
+
+    padding: 70px 0;
+}
+.footer-col
+{
+    width: 25%;
+    padding: 0 15px;
+}
+
+.footer-col h4{
+    font-size: 18px;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
